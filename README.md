@@ -2,7 +2,6 @@
 
 ## 🚀 Quick Start
 
-<details>
 <summary><b>Installation Guide</b></summary>
 
 ```bash
@@ -23,4 +22,3 @@ conda install faiss-gpu=1.8.0 -c pytorch
 # Optional: Install Arial font for faster inference
 mkdir -p ~/.config/DuKe && cp misc/Arial.ttf ~/.config/DuKe
 ```
-</details>
